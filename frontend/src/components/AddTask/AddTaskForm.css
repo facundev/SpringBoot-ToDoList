@@ -1,0 +1,17 @@
+.completed-task-div{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    align-items: center;
+}
+
+.checkbox-inp {
+    position: absolute;
+    margin-left: 8px;
+    margin-top: 1.5px;
+    width: 17px;
+    height: 17px;
+}
+
+#description{
+    margin-top: 8px;
+}
